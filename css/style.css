@@ -5,7 +5,7 @@
 }
 
 .fr-text .myprice {
-	color: #fff; background-color: #8f001f; padding: 22px 18px;
+	color: #fff; background-color: #004173; padding: 22px 18px;
 	margin-top: 20px;
 	display: inline-block;
 	font-size: 18px;
@@ -19,7 +19,7 @@
 
 .washgrid > .fr-container:hover
  {
-	  background: #f60028;
+	  background: #abc0c8;
 }
 
 
@@ -246,7 +246,7 @@ a {
   padding-left: 30px;
   min-height: 12em;
   max-width: 1100;
-  background-color: #a80014;
+  background-color:#365572;
 }
 .fr_content {
   margin-right: auto;
