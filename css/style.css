@@ -10,8 +10,8 @@
 	display: inline-block;
 	font-size: 18px;
 	-webkit-border-radius: 40px;
--moz-border-radius: 40px;
-border-radius: 40px;
+	-moz-border-radius: 40px;
+	border-radius: 40px;
 	
 }
 
